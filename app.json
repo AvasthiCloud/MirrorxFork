@@ -7,7 +7,7 @@
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/Ishan-EXE/MirrorX",
+    "repository": "https://github.com/AvasthiCloud/MirrorxFork",
     "website": "https://github.com/Ishan-EXE/MirrorX",
     "success_url": "https://t.me/IshanUpdates",
     "stack": "container",
@@ -18,6 +18,7 @@
       },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
+        "value": "123445",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
